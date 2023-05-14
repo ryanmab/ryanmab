@@ -7,14 +7,14 @@ Professionally, I'm Engineer, but my other passions are maybe not what most peop
 
 Day to day, I exercise at the gym (7 years and counting!), but I enjoy being outside in the natural world, such as going for walks, Bodyboarding in Cornwall, or Scuba diving in the Red Sea.
 
-I am always happy to chat so feel free to use the contact form or message me on LinkedIn.
+I am always happy to chat so feel free to use the contact form on [my portfolio](https://www.ryanmaber.com/) or message me on [LinkedIn](https://www.linkedin.com/in/ryan-maber/).
 
 ### My profile
 <a href="https://github.com/ryanmab">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanmab&count_private=true&show_icons=true&theme=transparent"  alt="Commits"/>
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=ryanmab&count_private=true&show_icons=true&theme=transparent"  alt="Commits"/>
 </a>
 <a href="https://github.com/ryanmab">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanmab&theme=transparent&langs_count=10&layout=compact" alt="Top Languages" />
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanmab&theme=transparent&langs_count=10&layout=compact" alt="Top Languages" />
 </a>
 
 ### Want to reach out to me?
