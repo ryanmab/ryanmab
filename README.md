@@ -1,5 +1,5 @@
 ## Hey there! :wave:
-I'm Ryan, a Senior Full Stack Software Engineer with more than 10 years of commercial experience, currently working with PHP, Symfony, Laravel, React, TypeScript and GraphQL. I have experience deploying applications in the cloud with AWS, database management and DevOps.
+I'm Ryan, a Lead Full Stack Software Engineer with more than 10 years of commercial experience, currently working with PHP, Symfony, Laravel, React, TypeScript and GraphQL. I have experience deploying applications in the cloud with AWS, database management and DevOps.
 
 Over the years, I've worked with businesses of all sizes, from start-ups to well-known companies, to deliver reliable software solutions alongside managing teams of developers and deploying enterprise-grade infrastructure. 
 
