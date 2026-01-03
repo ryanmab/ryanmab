@@ -35,9 +35,9 @@ I built this mostly as a passion project - [born out of frustration with the exi
 I'm always happy to chat! Reach me via [my portfolio](https://www.ryanmaber.com/) or connect on [LinkedIn](https://www.linkedin.com/in/ryan-maber/).
 
 <a href="https://github.com/ryanmab">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ryanmab&count_private=true&show_icons=true&theme=transparent" alt="Commits"/>
+  <img height="150" src="stats.svg" alt="Commits"/>
 </a>
 <a href="https://github.com/ryanmab">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanmab&theme=transparent&langs_count=10&layout=compact" alt="Top Languages" />
+  <img height="150" src="top-langs.svg" alt="Top Languages" />
 </a>
 
