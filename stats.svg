@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ryan Maber&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 113, Total Commits  (last year) : 1557, Total PRs: 1031, Total Issues: 5, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 113, Total Commits  (last year) : 1574, Total PRs: 1033, Total Issues: 5, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 58.45236316958536;
+        stroke-dashoffset: 58.42663366955556;
       }
     }
   
